@@ -1,0 +1,12 @@
+{
+    "name": "WeightedAverage",
+    "alias": "WeightedAverage",
+    "description": "The way of planning, integrating, and regulating supply chains for shipment, article storage, inventory.",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\WeightedAverage\\Providers\\WeightedAverageServiceProvider"
+    ],
+    "files": []
+}
